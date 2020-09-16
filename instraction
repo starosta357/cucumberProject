@@ -1,0 +1,3 @@
+mvn clean install -Dtest=CucumberTestRunner
+
+mvn clean install test
